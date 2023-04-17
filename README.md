@@ -5,14 +5,14 @@
 - `1`: A login page that allows users to log in and logout.
 - `2`: The users will have the ability to write his own postings.
 - `3`: The users can delete or edit their posts.
-- `F`: All posts are tagged with the author's name and date they were published.
+- `4`: All posts are tagged with the author's name and date they were published.
 
 
 # Technologies used
 - `1`: Javascript
 - `2`: HTML
 - `3`: CSS
-- `5`: React
+- `4`: React
 
 
 # Libraries
